@@ -1,8 +1,8 @@
 {
     "promocodes": [
-            {"expirationDate":1111111, "status":"ACTIVE", "value": 12, "code": "eueueueue"},
-            {"expirationDate":1111111, "status":"INNACTIVE", "value": 5, "code": "eueueueue"},
-            {"expirationDate":1111111, "status":"EXPIRED", "value": 5, "code": "eueueueue"}
+            {"expirationDate":1576423640, "status":"ACTIVE", "value": 12, "code": "AB123"},
+            {"expirationDate":1575991640, "status":"INACTIVE", "value": 5, "code": "CD123"},
+            {"expirationDate":1575818840, "status":"EXPIRED", "value": 5, "code": "EF123"}
         ],
     "redeemcode": {
         "response" : true
