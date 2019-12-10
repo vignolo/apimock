@@ -1,6 +1,10 @@
 {
-"promocodes": [
-        {"expirationDate":1111111, "status":"ACTIVE", "value": 12, "code": "eueueueue"},
-        {"expirationDate":1111111, "status":"EXPIRED", "value": 5, "code": "eueueueue"}
-    ]
+    "promocodes": [
+            {"expirationDate":1111111, "status":"ACTIVE", "value": 12, "code": "eueueueue"},
+            {"expirationDate":1111111, "status":"INNACTIVE", "value": 5, "code": "eueueueue"},
+            {"expirationDate":1111111, "status":"EXPIRED", "value": 5, "code": "eueueueue"}
+        ],
+    "redeemcode": {
+        "response" : true
+    }
 }
